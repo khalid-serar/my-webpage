@@ -1,0 +1,19 @@
+html {
+    font-size: 20px;
+    background-color: coral;
+  }
+  body {
+    font-family: "poppins" 'Times New Roman', Times, serif
+    font-size: 10rem;
+    line-height: 1.5;
+  }
+  .header{
+      text-shadow: black;
+  }
+  .projects{
+      font-style: italic;
+  }
+  .list{
+      text-align: center;
+  }
+  
