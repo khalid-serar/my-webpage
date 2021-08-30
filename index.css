@@ -14,4 +14,9 @@ html {
       font-style: italic;
       background-color: dimgrey;
   }
+  .last{
+    text-align: center;
+    float: left;
+    width: 60%;
+}
   
